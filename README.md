@@ -13,3 +13,7 @@
 <h2 align="left">Projects</h2>
 
 ###
+
+<p align="left">🎮 3D raycasting game<br>🔒 Vigenere Encoder</p>
+
+###
