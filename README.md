@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mateusz</h1>
-<p align="left">
-</p>
+<h1 align="left">Hi👋</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Programming in C++<br>📚 I'm currently learning Python, C# and SQL<br>🎯 My goal is making 3D game in assembly language</p>
+
+###
+
+<h2 align="left">Projects</h2>
+
+###
