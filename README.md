@@ -14,6 +14,6 @@
 
 ###
 
-<p align="left">🎮 3D raycasting game<br>🔒 Vigenere Encoder</p>
+<p align="left">🎮 Raycasting 3D Game<br>🔒 Vigenere Encoder</p>
 
 ###
