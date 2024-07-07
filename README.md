@@ -14,6 +14,6 @@
 
 ###
 
-<p align="left">🎮 Raycasting 3D Game<br>🔒 Vigenere Encoder</p>
+<p align="left">🎮 Raycasting 3D Game [Raycasting shooter](https://github.com/Waveus/Pseudo-3D-Shooter/tree/main?tab=readme-ov-file)<br>🔒 Vigenere Encoder</p>
 
 ###
