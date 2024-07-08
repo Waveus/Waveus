@@ -16,6 +16,6 @@
 
 <p align="left">🎮 Raycasting 3D Game: <a href="https://github.com/Waveus/Pseudo-3D-Shooter/tree/main?tab=readme-ov-file">Pseudo-3D-shooter.</a>
 <p align="left">🔒 Vigenere Encoder: <a href="https://github.com/Waveus/Vigenere-Cipher">Vigenere-Cipher.</a>
-<p align="left">✔️❓❌ ASCII Art Wordle: <a href="https://github.com/Waveus/Wordle-Clone">WORDLE-CLONE.</a>
+<p align="left">✔️❓❌ ASCII Art Wordle: <a href="https://github.com/Waveus/Wordle-Clone">Wordle-Clone</a>
   
 ###
