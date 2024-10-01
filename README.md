@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Programming in C++.<br>📚 I'm currently learning Python, C# and SQL.<br>🎯 My goal is learning assembly.</p>
+<p align="left">✨ Programming in C++.<br>📚 I'm currently learning Python, C# and SQL.<br>🎯 My goal is learning RE.</p>
 
 ###
 
