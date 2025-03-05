@@ -1,12 +1,12 @@
-<h1 align="left">Hi👋</h1>
-
 ###
 
 <h2 align="left">About me.</h2>
 
 ###
 
-<p align="left">✨ Programming in C++.<br>📚 I'm currently learning Python, C# and SQL.<br>🎯 My goal is learning RE.</p>
+<p align="left">Programming in <strong>C++, Python</strong>, other languages I use spontanously.<br>
+<p align="left">Sometimes I use <strong>embedded systems</strong> for my projects.</p>
+
 
 ###
 
