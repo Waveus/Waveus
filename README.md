@@ -6,7 +6,7 @@
 
 <p align="left">Programming in <strong>C++, Python</strong>, other languages I use spontanously.<br>
 <p align="left">Sometimes I use <strong>embedded systems</strong> for my projects.</p>
-<p align="left">Also I am<strong>Linuxiarz</strong><br>
+<p align="left">Also I am <strong>Linuxiarz</strong><br>
 
 
 ###
