@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Programming in <strong>C++, Python</strong>, other languages I use spontanously.<br>
+<p align="left">ATV Software Dev<br>
 <p align="left">Sometimes I use <strong>embedded systems</strong> for my projects.</p>
 <p align="left">I am also <strong>Linuxiarz</strong>.<br>
 
