@@ -1,14 +1,15 @@
 # Hi there! 👋
-
+*Currently busy capturing flags 🚩...*
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">* ATV Software Dev<br>
-<p align="left">* Sometimes I use <strong>embedded systems</strong> for my projects.</p>
-<p align="left">* <strong>Linuxiarz</strong>.<br>
+* 📺 **Current Role:** Junior ATV Software Developer.
+* 🎓 **Education:** B.Eng. in Computer Science, currently pursuing an M.Eng. in Cybersecurity.
+* 🐧 **OS:** Proud Fedora Linux user.
+* 🛡️ **Cybersecurity Focus:** Strongly drawn to defensive security (Blue Team).
 
 
 ###
@@ -16,9 +17,11 @@
 <h2 align="left">Some Uni-projects</h2>
 
 ###
-
-<p align="left">🎮 Raycasting 3D Game: <a href="https://github.com/Waveus/Pseudo-3D-Shooter/tree/main?tab=readme-ov-file">Pseudo-3D-shooter.</a>
-<p align="left">🔒 Vigenere Encoder: <a href="https://github.com/Waveus/Vigenere-Cipher">Vigenere-Cipher.</a>
-<p align="left">✔️❓❌ ASCII Art Wordle: <a href="https://github.com/Waveus/Wordle-Clone">Wordle-Clone.</a>
+* 🎮 **[Raycasting 3D Game](https://github.com/Waveus/Pseudo-3D-Shooter/tree/main?tab=readme-ov-file)** 
+  A retro-style pseudo-3D shooter built from scratch.
+* 🔒 **[Vigenere Encoder](https://github.com/Waveus/Vigenere-Cipher)**
+  A cryptographic tool implementing the Vigenere Cipher, featuring an n-gram analysis tool for breaking the code.
+* ✔️❓❌ **[ASCII Art Wordle](https://github.com/Waveus/Wordle-Clone)** 
+  A fun, terminal-based Wordle clone using ASCII graphics, built with a custom generic data structure and iterator.
   
 ###
