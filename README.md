@@ -23,5 +23,5 @@
   A cryptographic tool implementing the Vigenere Cipher, featuring an n-gram analysis tool for breaking the code.
 * ✔️❓❌ **[ASCII Art Wordle](https://github.com/Waveus/Wordle-Clone)** 
   A fun, terminal-based Wordle clone using ASCII graphics, built with a custom generic data structure and iterator.
-  
+* 🖼️ **[Dither-It (C++ & MASM64)](https://github.com/Waveus/Dither-It)** Implementation of the Floyd-Steinberg image dithering algorithm. Built in C++, with the core algorithm implemented in both C++ and x64 Assembly (MASM) to benchmark and compare their execution times.
 ###
