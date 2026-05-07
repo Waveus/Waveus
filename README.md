@@ -4,14 +4,14 @@
 
 ###
 
-<p align="left">ATV Software Dev<br>
-<p align="left">Sometimes I use <strong>embedded systems</strong> for my projects.</p>
-<p align="left"><strong>Linuxiarz</strong>.<br>
+<p align="left">* ATV Software Dev<br>
+<p align="left">* Sometimes I use <strong>embedded systems</strong> for my projects.</p>
+<p align="left">* <strong>Linuxiarz</strong>.<br>
 
 
 ###
 
-<h2 align="left">Projects.</h2>
+<h2 align="left">Some Uni-projects</h2>
 
 ###
 
